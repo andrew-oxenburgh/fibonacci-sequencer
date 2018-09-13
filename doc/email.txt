@@ -1,0 +1,35 @@
+Hi Andrew,
+
+
+
+As we talk about in the meeting, we would appreciate it greatly if we could see a demo android app from you.
+
+
+
+For simplicity, I think a simple fibonacci sequence app would get you a feel of android & kotlin.
+
+I attached a simple UI so you don’t need to go too fancy on it.
+
+( P.S click the “Next” button to get the next number )
+
+
+
+I understand Android development is very imitating at first, so here are some libraries / tools that google recommend to make it easier.
+
+
+
+UI – Constraint Layout
+
+MVC – LiveData, Data Binding, ViewModel
+
+Unit Test – junit, Robolectric
+
+
+
+Please feel free to let me know if you got any problems =)
+
+
+
+Best regards,
+
+Kaga

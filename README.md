@@ -23,5 +23,5 @@ Notifies on Number Overflow, and will cease to calculate.
 - **tests** - there is a framework setup for that.
 - pull **business logic** out of `MainActivity.kt`. This should be in a separate file, and possibly a separate folder.
 - Nice to use a **generator** for next in sequence.
-- **saving state** - when you restart, or rotate, or probably even sleep, you lose state, and the counter restarts.
+- **saving state** - when you restart, or rotate, or probably even sleep, you lose state, and the counter restarts. The `ViewModel` allows you to save state across config changes.
 - **not overflow** - use java `BigInteger` to calculate bigger numbers.
